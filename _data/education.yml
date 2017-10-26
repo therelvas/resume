@@ -1,6 +1,13 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Masters in Computer Science
+  uni: Instituto Superior Técnico
+  year: 2013 &mdash; 2016
+  # awards:
+  summary: With focus on Software Engineering, particularly Software Quality, Distributed Systems and Project Management. Multimedia Systems related courses as a Minor, with Human- Machine Interaction and 3D Programming in mind.
+    <p>Dissertation relied on a fully integration between VR Headsets for visualization and Depth Cameras for body tracking, immersing users in a Virtual Environment. The objective of this project was to assess the impact of Degrees of Freedom Separation in Mid-Air 3D Object Manipulation.</p>
+
+- degree: Bachelor in Computer Science
+  uni: Instituto Superior Técnico
+  year: 2008 &mdash; 2013
+  # awards:
+  summary: Multiple Engineering related courses, Mathematics and Physics being the main themes. On Computer Science, Algorithms, Data Structures and Object-Oriented Programming had the biggest focus.
