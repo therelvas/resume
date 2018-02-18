@@ -13,8 +13,8 @@ resume_avatar:                  "true"
 resume_name:                    "Filipe Relvas"
 resume_title:                   "Software Engineer"
 resume_contact_email:           "filipe.relvas@outlook.pt"
-resume_contact_address:         "Avenida Professor Cavaco Silva, Room 2-N9.1 2744-016 Porto Salvo Portugal"
-resume_header_contact_info: "Visualization and Intelligent MultiModal Interfaces Group - INESC-ID | Avenida Professor Cavaco Silva, Room 2-N9.1 2744-016 Porto Salvo Portugal | filiperelvas@tecnico.ulisboa.pt"
+resume_contact_address:         "MSFT, Software para Microcomputadores, Lda, Rua do Fogo de Santelmo, Lote 2.07.02, 1990 – 110 Lisboa"
+#resume_header_contact_info: 
 resume_header_intro: "<p>I love technology in general but my biggest passion is videogames! Ever since I met a red hatted plumber they became a part of my life. Always open to new ideas and interesting discussions, I take work very seriously with a keen eye for detail.</p>"
 
 # use "yes" to display the email contact button,
